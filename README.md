@@ -1,2 +1,2 @@
 # findhiddenfiles.ps1
-Finds hidden files by attribute
+Finds hidden files by attribute (powershell script)
